@@ -105,22 +105,6 @@ const HomeSlider = () => {
                         Empowering Lives Through
                         <span>Style & Inspiration</span>
                       </h1>
-                      <div className="hero-button">
-                        <Link
-                          href="/shop-single"
-                          className="theme-btn"
-                          data-animation="fadeInUp"
-                          data-duration={duration}
-                          data-delay="0.9s"
-                        >
-                          <span className="button-content-wrapper d-flex align-items-center">
-                            <span className="button-icon">
-                              <i className="flaticon-delivery" />
-                            </span>
-                            <span className="button-text">order now</span>
-                          </span>
-                        </Link>
-                      </div>
                     </div>
                   </div>
                   <div className="col-xl-6 col-lg-5 mt-5 mt-lg-0">

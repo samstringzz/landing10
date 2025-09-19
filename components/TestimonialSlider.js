@@ -38,13 +38,6 @@ const TestimonialSlider = ({ sectionBg = true }) => {
                       say it’s the best meal I have had in quite some time. will
                       definitely be seeing more eating next year.”
                     </h3>
-                    <div className="star">
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                    </div>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
@@ -58,13 +51,6 @@ const TestimonialSlider = ({ sectionBg = true }) => {
                       say it’s the best meal I have had in quite some time. will
                       definitely be seeing more eating next year.”
                     </h3>
-                    <div className="star">
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                    </div>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
@@ -78,13 +64,6 @@ const TestimonialSlider = ({ sectionBg = true }) => {
                       say it’s the best meal I have had in quite some time. will
                       definitely be seeing more eating next year.”
                     </h3>
-                    <div className="star">
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                    </div>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
@@ -98,13 +77,6 @@ const TestimonialSlider = ({ sectionBg = true }) => {
                       say it’s the best meal I have had in quite some time. will
                       definitely be seeing more eating next year.”
                     </h3>
-                    <div className="star">
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                    </div>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
@@ -118,13 +90,6 @@ const TestimonialSlider = ({ sectionBg = true }) => {
                       say it’s the best meal I have had in quite some time. will
                       definitely be seeing more eating next year.”
                     </h3>
-                    <div className="star">
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                    </div>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
@@ -138,13 +103,6 @@ const TestimonialSlider = ({ sectionBg = true }) => {
                       say it’s the best meal I have had in quite some time. will
                       definitely be seeing more eating next year.”
                     </h3>
-                    <div className="star">
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                      <span className="fas fa-star" />
-                    </div>
                   </div>
                 </SwiperSlide>
               </div>
@@ -360,13 +318,6 @@ export const TestimonialSlider3 = () => {
                       <div className="info-icon d-flex align-items-center">
                         <img src="assets/img/icon/quote.svg" alt="icon-img" />
                         <h4>Quality Food</h4>
-                        <div className="star">
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                        </div>
                       </div>
                       <h3>
                         Nestled within a fresh, toasted bun, each bite unveils a
@@ -394,13 +345,6 @@ export const TestimonialSlider3 = () => {
                       <div className="info-icon d-flex align-items-center">
                         <img src="assets/img/icon/quote.svg" alt="icon-img" />
                         <h4>Quality Food</h4>
-                        <div className="star">
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                        </div>
                       </div>
                       <h3>
                         Nestled within a fresh, toasted bun, each bite unveils a
@@ -428,13 +372,6 @@ export const TestimonialSlider3 = () => {
                       <div className="info-icon d-flex align-items-center">
                         <img src="assets/img/icon/quote.svg" alt="icon-img" />
                         <h4>Quality Food</h4>
-                        <div className="star">
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                        </div>
                       </div>
                       <h3>
                         Nestled within a fresh, toasted bun, each bite unveils a
@@ -462,13 +399,6 @@ export const TestimonialSlider3 = () => {
                       <div className="info-icon d-flex align-items-center">
                         <img src="assets/img/icon/quote.svg" alt="icon-img" />
                         <h4>Quality Food</h4>
-                        <div className="star">
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                          <span className="fas fa-star" />
-                        </div>
                       </div>
                       <h3>
                         Nestled within a fresh, toasted bun, each bite unveils a
