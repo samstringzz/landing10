@@ -1,4 +1,4 @@
-import { HomeSlider3 } from "@/components/HomeSlider";
+import HomeSlider from "@/components/HomeSlider";
 import InstagramBannerSlider from "@/components/InstagramBannerSlider";
 import NextSaleBanner from "@/components/NextSaleBanner";
 import { TestimonialSlider3 } from "@/components/TestimonialSlider";
@@ -8,7 +8,7 @@ const page = () => {
   return (
     <FoodKingLayout header={2} footer={2}>
       {/* Hero Section Start */}
-      <HomeSlider3 />
+      <HomeSlider />
       {/* Testimonial Section Start */}
       <section className="testimonial-section-3 section-padding fix">
         <div className="container">

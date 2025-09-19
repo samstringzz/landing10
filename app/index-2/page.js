@@ -1,6 +1,6 @@
 import { AboutFoodItems2 } from "@/components/AboutFoodItems";
 import GallerySlider from "@/components/GallerySlider";
-import { HomeSlider2 } from "@/components/HomeSlider";
+import HomeSlider from "@/components/HomeSlider";
 import InstagramBannerSlider from "@/components/InstagramBannerSlider";
 import { TestimonialSlider2 } from "@/components/TestimonialSlider";
 import FoodKingLayout from "@/layouts/FoodKingLayout";
@@ -10,7 +10,7 @@ const page = () => {
   return (
     <FoodKingLayout>
       {/* Hero Section Start */}
-      <HomeSlider2 />
+      <HomeSlider />
       {/* Food Banner Section Start */}
       <section className="food-banner-section section-padding fix">
         <div className="burger-shape-2">
